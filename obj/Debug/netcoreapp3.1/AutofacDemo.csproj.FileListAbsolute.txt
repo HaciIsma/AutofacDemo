@@ -1,0 +1,15 @@
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.exe
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.csprojAssemblyReference.cache
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.AssemblyInfoInputs.cache
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.AssemblyInfo.cs
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.deps.json
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.runtimeconfig.json
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.runtimeconfig.dev.json
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.dll
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\AutofacDemo.pdb
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.csproj.CoreCompileInputs.cache
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.csproj.CopyComplete
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.dll
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.pdb
+C:\Users\HaciIsma\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp3.1\AutofacDemo.genruntimeconfig.cache

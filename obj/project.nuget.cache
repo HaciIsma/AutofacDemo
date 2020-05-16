@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJ7oUr4IVmy1FISV+QH5RqvGcegBONQEyNVJCkC60u5uuyRd9HdO8xqb6v/bquk8ZEF3CTBOz9Xs7fFpN9anYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HaciIsma\\source\\repos\\AutofacDemo\\AutofacDemo\\AutofacDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HaciIsma\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
